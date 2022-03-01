@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-ordering-app/static/css/main.90cc5b30.chunk.css",
+    "main.js": "/react-ordering-app/static/js/main.a25beec6.chunk.js",
+    "main.js.map": "/react-ordering-app/static/js/main.a25beec6.chunk.js.map",
+    "runtime-main.js": "/react-ordering-app/static/js/runtime-main.5d96b504.js",
+    "runtime-main.js.map": "/react-ordering-app/static/js/runtime-main.5d96b504.js.map",
+    "static/js/2.9ed5e4c3.chunk.js": "/react-ordering-app/static/js/2.9ed5e4c3.chunk.js",
+    "static/js/2.9ed5e4c3.chunk.js.map": "/react-ordering-app/static/js/2.9ed5e4c3.chunk.js.map",
+    "index.html": "/react-ordering-app/index.html",
+    "static/css/main.90cc5b30.chunk.css.map": "/react-ordering-app/static/css/main.90cc5b30.chunk.css.map",
+    "static/js/2.9ed5e4c3.chunk.js.LICENSE.txt": "/react-ordering-app/static/js/2.9ed5e4c3.chunk.js.LICENSE.txt",
+    "static/media/food-background.0633926e.jpg": "/react-ordering-app/static/media/food-background.0633926e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d96b504.js",
+    "static/js/2.9ed5e4c3.chunk.js",
+    "static/css/main.90cc5b30.chunk.css",
+    "static/js/main.a25beec6.chunk.js"
+  ]
+}
